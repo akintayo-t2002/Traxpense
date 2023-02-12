@@ -3,14 +3,15 @@
 A new Flutter project.
 
 ## Getting Started
+Traxpense
+    This is an expense tracker app which helps user track their expenses. 
+ Features:   
+   Authentication:The app contains login and sign up screens for authentication.
 
-This project is a starting point for a Flutter application.
+   Expense: User can add their expenses and get the total.
 
-A few resources to get you started if this is your first Flutter project:
+   Statistics/Analytics: An analytics screen is also included in the app for daily, weekly, monthly and yearly statistics of their expenses using graphs and charts.
+    
+   Goals: Users can set goals each month
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    
